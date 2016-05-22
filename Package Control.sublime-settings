@@ -1,0 +1,37 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"ApplySyntax",
+		"AutoCompleteJS",
+		"Better CoffeeScript",
+		"BlameHighlighter",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPicker",
+		"Compare Side-By-Side",
+		"CursorRuler",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"GitHub Flavored Markdown Preview",
+		"Guard",
+		"Jasmine JS",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Package Control",
+		"Ruby Slim",
+		"Sass",
+		"ShellScriptImproved",
+		"SideBarEnhancements",
+		"SublimeREPL",
+		"SuperNavigator",
+		"Tag",
+		"Wrap Plus"
+	]
+}

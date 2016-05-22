@@ -1,0 +1,15 @@
+[
+  { "keys": ["ctrl+shift+space"], "command": "move_to", "args": {"to": "eol", "extend": false} },
+  { "keys": ["super+v"], "command": "paste_and_indent" },
+  { "keys": ["super+shift+v"], "command": "paste" },
+  {
+      "keys": [
+          "ctrl+h"
+      ],
+      "args": {
+          "action": "balance_outward"
+      },
+      "command": "run_emmet_action"
+  },
+  { "keys": ["super+alt+enter"], "command": "goto_definition" }
+]
